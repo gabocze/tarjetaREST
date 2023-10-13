@@ -24,7 +24,7 @@ jobs:
       - name: maven-settings
         uses: s4u/maven-settings-action@v2
         with:
-          servers: '[{"id": "github", "username": "dummy", "password": "${GITHUB_TOKEN_REF}"}]'
+          servers: '[{"id": "github", "username": "gabocze", "password": "${GITHUB_TOKEN_REF}"}]'
           githubServer: false
         env:
           GITHUB_TOKEN_REF: ${{ secrets.GH_PAT_FOR_ACTIONS_TOKEN }}
