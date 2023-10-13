@@ -49,7 +49,7 @@
     <repository>
       <id>github</id>
       <name>gabocze Maven Github Packages</name>
-      <url>http://maven.pkg.github.com/gabocze/Java-card-operation</url>
+      <url>https://maven.pkg.github.com/gabocze/Java-card-operation</url>
     </repository>
   </repositories>
   <distributionManagement>
