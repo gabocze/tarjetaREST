@@ -1,7 +1,6 @@
 package tarjetaop.tarjetarest;
 
 import java.time.LocalDate;
-import java.time.ZoneId;
 import java.time.ZoneOffset;
 import java.util.Date;
 
