@@ -47,7 +47,7 @@
 	</build>
   <repositories>
     <repository>
-      <id>gabocze2</id>
+      <id>github</id>
       <name>gabocze Maven Github Packages</name>
       <url>http://maven.pkg.github.com/gabocze/Java-card-operation</url>
     </repository>
