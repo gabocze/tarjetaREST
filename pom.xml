@@ -45,5 +45,11 @@
 			</plugin>
 		</plugins>
 	</build>
-
+  <repositories>
+    <repository>
+      <id>gabocze</id>
+      <name>gabocze Maven Github Packages</name>
+      <url>http://maven.pkg.github.com/gabocze/*</url>
+    </repository>
+  </repositories>
 </project>
