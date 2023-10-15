@@ -59,5 +59,5 @@ jobs:
         with:
           app-name: 'tarjetawebrest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_30052CA92EE9463D81D91349E96A7F8F }}
+          publish-profile: ${{ secrets.AZURE_PUBLISH_PROFILE_TARJETAWEBREST }}
           package: '*.jar'
