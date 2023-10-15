@@ -57,7 +57,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'tarjetarest'
+          app-name: 'tarjetawebrest'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_30052CA92EE9463D81D91349E96A7F8F }}
           package: '*.jar'
