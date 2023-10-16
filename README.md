@@ -7,7 +7,7 @@ Si bien el proyecto utiliza las características de Java 8, tiene algunas depend
 
 ### Pasos
 1. Primero agregar el proyecto [Java-card-operation](https://github.com/gabocze/Java-card-operation/), consultando su propio `README.md` si fuera necesario.
-1. Ir a Archivo \| agregar carpeta al área de trabajo.
+1. Ir a `Archivo ▸ agregar carpeta al área de trabajo`.
 1. Aceptar la instalación de los plugins sugeridos de Java y de Maven y esperar a que se instalen.
 1. Si no está visible, ir a `Ver ▸ Abrir vista`
     1. Escribir `Maven` ENTER
